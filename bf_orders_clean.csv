@@ -1,0 +1,4 @@
+order_id,order_datetime,store_id,product_id,promotion_id,channel,payment_method,units,unit_selling_price,discount_pct_applied,order_status
+BF2024-0001,2024-11-29 08:05:12,S01,P1001,PR01,In-Store,Card,1,324.35,35.0,Completed
+BF2024-0012,2024-11-29 12:05:10,S99,P1002,,Online,Card,1,89.4,40.0,Completed
+BF2024-0016,2024-11-29 20:45:00,S02,P1003,,In-Store,Cash,3,74.25,0.0,Completed
